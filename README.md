@@ -27,8 +27,3 @@ A lightweight, classic 15-Puzzle game built entirely in Python using the standar
 
 ### Prerequisites
 Make sure you have Python installed on your system. Tkinter comes pre-installed with most standard Python installations.
-
-### Running the Game
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
